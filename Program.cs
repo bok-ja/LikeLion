@@ -154,6 +154,7 @@ namespace _0224_study6
 
 
 
+
             /*            //문자열 연결 연산자
 
                         string firstName = "Alice";
